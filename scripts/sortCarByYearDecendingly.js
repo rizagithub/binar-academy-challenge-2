@@ -1,4 +1,4 @@
-function sortCarByYearAscendingly(cars) {
+function sortCarByYearDescendingly(cars) {
   // Sangat dianjurkan untuk console.log semua hal hehe
   console.log(cars);
 
